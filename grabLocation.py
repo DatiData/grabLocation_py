@@ -6,7 +6,7 @@ import time    # For rate limiting purposes
 # Geopy available at https://github.com/geopy/geopy
 
 # This program is copyright 2017 Joseph Johaneman
-# And is released under the MIT License
+# And is released under the 3 Clause BSD License
 
 # What this does:  this program reads in a list of addresses of
 # school names and prints out a tab separated list of schools name
